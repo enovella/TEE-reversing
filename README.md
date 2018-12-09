@@ -1,7 +1,4 @@
-# TEE-reversing
- A curated list of public TEE resources for learning how to reverse-engineer and achieve trusted code execution on ARM.
-
-### TEE basics
+# TEE basics 
 
 - Introduction to Trusted Execution Environment: ARM's TrustZone
 	- https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html

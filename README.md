@@ -10,6 +10,11 @@
 - Unlocking the Motorola Bootloader (10/02/2016)
 	- http://bits-please.blogspot.com/2016/02/unlocking-motorola-bootloader.html
 
+### Huawei TrustedCode
+
+- Exploiting Trustzone on Android (BH-US 2015) by Di Shen(@returnsme) 
+	- https://www.blackhat.com/docs/us-15/materials/us-15-Shen-Attacking-Your-Trusted-Core-Exploiting-Trustzone-On-Android-wp.pdf
+
 ### QSEE
 
 - Reflections on Trusting TrustZone (2014)
@@ -69,3 +74,8 @@
 - BSides DC 2018 & DerbiCon VIII - On the nose: Bypassing Huaweis Fingerprint Authentication by Exploiting the TrustZone by Nick Stephens
 	- https://www.youtube.com/watch?v=QFFhdqP7Dxg
 	- https://www.youtube.com/watch?v=MdoGCXGHGnY
+	
+- BH US 2015 - Fingerprints On Mobile Devices: Abusing And Leaking
+	- https://www.youtube.com/watch?v=7NkojB9gLXM
+
+

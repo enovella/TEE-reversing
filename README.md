@@ -10,7 +10,7 @@
 - Unlocking the Motorola Bootloader (10/02/2016)
 	- http://bits-please.blogspot.com/2016/02/unlocking-motorola-bootloader.html
 
-### Huawei TrustedCode
+### Huawei
 
 - Exploiting Trustzone on Android (BH-US 2015) by Di Shen(@returnsme) 
 	- https://www.blackhat.com/docs/us-15/materials/us-15-Shen-Attacking-Your-Trusted-Core-Exploiting-Trustzone-On-Android-wp.pdf

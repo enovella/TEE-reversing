@@ -65,8 +65,8 @@
 ### TEE Videos
 
 - Ekoparty-13 (2017) Daniel Komaromy - Unbox Your Phone - Exploring and Breaking Samsung's TrustZone SandBoxes
-	- https://www.youtube.com/watch?v=L2Mo8WcmmZo
-	- slides= todo
+	- video: https://www.youtube.com/watch?v=L2Mo8WcmmZo
+	- slides: https://github.com/puppykitten/tbase/blob/master/unboxyourphone_ekoparty.pdf
 
 - Daniel Komaromy - Enter The Snapdragon (2014-10-11)
 	- https://www.youtube.com/watch?v=2wJRnewVE-g

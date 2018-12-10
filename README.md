@@ -78,4 +78,7 @@
 - BH US 2015 - Fingerprints On Mobile Devices: Abusing And Leaking
 	- https://www.youtube.com/watch?v=7NkojB9gLXM
 
+- No ConName 2015 - (Un)Trusted Execution Environments by Pau Oliva
+	- video: *audio Spanish only* https://vimeo.com/150787883
+	- slides: https://t.co/vFATxEa7sy
 

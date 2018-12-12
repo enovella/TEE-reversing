@@ -57,6 +57,9 @@
 	- https://github.com/puppykitten/tbase
 	- https://github.com/puppykitten/tbase/blob/master/unboxyourphone_ekoparty.pdf
 
+- KINIBI TEE: Trusted Application Exploitation (2018-12-10)
+	- https://www.synacktiv.com/posts/exploit/kinibi-tee-trusted-application-exploitation.html
+
 - Reverse Engineering Samsung S6 SBOOT - Part I & II
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html

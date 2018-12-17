@@ -5,7 +5,7 @@
 - Attacking the ARM's TrustZone
 	- https://blog.quarkslab.com/attacking-the-arms-trustzone.html
 - Secure initialization of TEEs: when secure boot falls short (EuskalHack 2017)
-	- https://www.slideshare.net/CristofaroMune/euskalhack-2017-secure-initialization-of-tees-when-secure-boot-falls-short
+	- https://www.riscure.com/uploads/2017/08/euskalhack_2017_-_secure_initialization_of_tees_when_secure_boot_falls_short.pdf
 
 ### Motorola
 

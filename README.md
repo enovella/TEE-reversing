@@ -49,6 +49,8 @@
 - Trust Issues: Exploiting TrustZone TEEs (24 July 2017)
 	- https://googleprojectzero.blogspot.com/2017/07/trust-issues-exploiting-trustzone-tees.html
 
+- Breaking Bad. Reviewing Qualcomm ARM64 TZ and HW-enabled Secure Boot on Android (4-9.x)
+	- https://github.com/bkerler/slides_and_papers/blob/master/QualcommCrypto.pdf
 
 ### Samsung Kinibi & MobiCore
 

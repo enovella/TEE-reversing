@@ -52,6 +52,9 @@
 - Breaking Bad. Reviewing Qualcomm ARM64 TZ and HW-enabled Secure Boot on Android (4-9.x)
 	- https://github.com/bkerler/slides_and_papers/blob/master/QualcommCrypto.pdf
 
+- Technical Advisory: Private Key Extraction from Qualcomm Hardware-backed Keystores CVE-2018-11976 (NCC)
+	- https://www.nccgroup.trust/us/our-research/private-key-extraction-qualcomm-keystore/
+
 ### Samsung Kinibi & MobiCore
 
 - Unbox Your Phone: Parts I, II & III

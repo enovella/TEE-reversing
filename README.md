@@ -20,7 +20,7 @@
 - EL3 Tour : Get the Ultimate Privilege of Android Phone (Infiltrate19)
 	- https://speakerdeck.com/hhj4ck/el3-tour-get-the-ultimate-privilege-of-android-phone
 	
-- Nailgun: Break the privilege isolation in ARM devices
+- Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun
 
 ### QSEE

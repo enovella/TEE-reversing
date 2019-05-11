@@ -16,6 +16,12 @@
 
 - Exploiting Trustzone on Android (BH-US 2015) by Di Shen(@returnsme) 
 	- https://www.blackhat.com/docs/us-15/materials/us-15-Shen-Attacking-Your-Trusted-Core-Exploiting-Trustzone-On-Android-wp.pdf
+	
+- EL3 Tour : Get the Ultimate Privilege of Android Phone (Infiltrate19)
+	- https://speakerdeck.com/hhj4ck/el3-tour-get-the-ultimate-privilege-of-android-phone
+	
+- Nailgun: Break the privilege isolation in ARM devices
+	- https://github.com/ningzhenyu/nailgun
 
 ### QSEE
 

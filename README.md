@@ -61,7 +61,9 @@
 - Technical Advisory: Private Key Extraction from Qualcomm Hardware-backed Keystores CVE-2018-11976 (NCC)
 	- https://www.nccgroup.trust/us/our-research/private-key-extraction-qualcomm-keystore/
 
-### Samsung Kinibi & MobiCore
+### Samsung 
+
+#### Kinibi & MobiCore
 
 - Unbox Your Phone: Parts I, II & III
 	- https://medium.com/taszksec/unbox-your-phone-part-i-331bbf44c30c
@@ -77,7 +79,11 @@
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html
 
+#### TEEGRIS
 
+- Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov
+	- http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html
+	
 ### TEE Videos
 
 - Ekoparty-13 (2017) Daniel Komaromy - Unbox Your Phone - Exploring and Breaking Samsung's TrustZone SandBoxes

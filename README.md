@@ -79,6 +79,9 @@
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html
 
+- TEE Exploitation on Samsung Exynos devices by Eloi Sanfelix: Parts I, II, III, IV
+	- https://labs.bluefrostsecurity.de/blog/2019/05/27/tee-exploitation-on-samsung-exynos-devices-introduction/
+
 #### TEEGRIS
 
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov

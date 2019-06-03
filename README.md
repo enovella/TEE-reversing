@@ -6,6 +6,8 @@
 	- https://blog.quarkslab.com/attacking-the-arms-trustzone.html
 - Secure initialization of TEEs: when secure boot falls short (EuskalHack 2017)
 	- https://www.riscure.com/uploads/2017/08/euskalhack_2017_-_secure_initialization_of_tees_when_secure_boot_falls_short.pdf
+- Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM
+        - https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
 
 ### Motorola
 

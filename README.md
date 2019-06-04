@@ -2,12 +2,15 @@
 
 - Introduction to Trusted Execution Environment: ARM's TrustZone
 	- https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html
+
 - Attacking the ARM's TrustZone
 	- https://blog.quarkslab.com/attacking-the-arms-trustzone.html
+
 - Secure initialization of TEEs: when secure boot falls short (EuskalHack 2017)
 	- https://www.riscure.com/uploads/2017/08/euskalhack_2017_-_secure_initialization_of_tees_when_secure_boot_falls_short.pdf
+
 - Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM
-        - https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
+	- https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
 
 ### Motorola
 
@@ -64,6 +67,10 @@
 - Technical Advisory: Private Key Extraction from Qualcomm Hardware-backed Keystores CVE-2018-11976 (NCC)
 	- https://www.nccgroup.trust/us/our-research/private-key-extraction-qualcomm-keystore/
 
+- Qualcomm TrustZone Integer Signedness bug (12/2014)
+	- https://fredericb.info/2014/12/qpsiir-80-qualcomm-trustzone-integer.html
+
+
 ### Samsung 
 
 #### Kinibi & MobiCore
@@ -90,7 +97,7 @@
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov
 	- http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html
 	
-### TEE Videos
+## TEE Videos
 
 - Ekoparty-13 (2017) Daniel Komaromy - Unbox Your Phone - Exploring and Breaking Samsung's TrustZone SandBoxes
 	- video: https://www.youtube.com/watch?v=L2Mo8WcmmZo
@@ -109,4 +116,7 @@
 - No ConName 2015 - (Un)Trusted Execution Environments by Pau Oliva
 	- video: *audio Spanish only* https://vimeo.com/150787883
 	- slides: https://t.co/vFATxEa7sy
+
+## TEE Tooling
+
 

@@ -117,6 +117,21 @@
 	- video: *audio Spanish only* https://vimeo.com/150787883
 	- slides: https://t.co/vFATxEa7sy
 
-## TEE Tooling
+## Tools
 
+### Emulate
+
+- QEMU Support for Exynos9820 S-Boot
+	- https://github.com/astarasikov/qemu
+
+- Emulating Exynos 4210 BootROM in QEMU
+	- https://fredericb.info/2018/03/emulating-exynos-4210-bootrom-in-qemu.html#emulating-exynos-4210-bootrom-in-qemu
+
+### Reverse
+
+- TZAR unpacker
+	- https://gist.github.com/astarasikov/f47cb7f46b5193872f376fa0ea842e4b#file-unpack_startup_tzar-py
+
+- IDA MCLF Loader
+	- https://github.com/ghassani/mclf-ida-loader
 

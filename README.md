@@ -11,6 +11,11 @@
 
 - Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM
 	- https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
+	
+- Boomerang: Exploiting the Semantic Gap in Trusted Execution Environments (A.Machiry) 2017
+	- https://pdfs.semanticscholar.org/f62b/db9f1950329f59dc467238737d2de1a1bac4.pdf
+	
+
 
 ### Motorola
 

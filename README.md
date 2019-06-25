@@ -2,6 +2,9 @@
 
 - Introduction to Trusted Execution Environment: ARM's TrustZone
 	- https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html
+	
+- Introduction to TEE (original title: TEEを中心とするCPUセキュリティ機能の動向 )
+	- https://seminar-materials.iijlab.net/iijlab-seminar/iijlab-seminar-20181120.pdf
 
 - Attacking the ARM's TrustZone
 	- https://blog.quarkslab.com/attacking-the-arms-trustzone.html

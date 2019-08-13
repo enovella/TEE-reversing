@@ -78,6 +78,9 @@
 
 - Qualcomm TrustZone Integer Signedness bug (12/2014)
 	- https://fredericb.info/2014/12/qpsiir-80-qualcomm-trustzone-integer.html
+	
+- The road to Qualcomm TrustZone apps fuzzing (RECON Montreal 2019)
+	- https://cfp.recon.cx/media/tz_apps_fuzz.pdf
 
 
 ### Samsung 
@@ -100,7 +103,10 @@
 
 - TEE Exploitation on Samsung Exynos devices by Eloi Sanfelix: Parts I, II, III, IV
 	- https://labs.bluefrostsecurity.de/blog/2019/05/27/tee-exploitation-on-samsung-exynos-devices-introduction/
-
+	
+- Breaking Samsung's ARM TrustZone (BlackHat USA 2019)
+	- https://i.blackhat.com/USA-19/Thursday/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf
+	
 #### TEEGRIS
 
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov

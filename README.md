@@ -151,3 +151,5 @@
 - IDA MCLF Loader
 	- https://github.com/ghassani/mclf-ida-loader
 
+- Ghidra MCLF Loader
+	- https://github.com/NeatMonster/mclf-ghidra-loader

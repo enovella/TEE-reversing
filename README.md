@@ -19,6 +19,9 @@
 	- https://pdfs.semanticscholar.org/f62b/db9f1950329f59dc467238737d2de1a1bac4.pdf (slides)
 	- http://sites.cs.ucsb.edu/~cspensky/pdfs/ndss17-final227.pdf (paper)
 	
+- Nick Stephens : how does someone unlock your phone with nose. (give big picture of NWd <> SWd communications and exploits)
+	- https://fr.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
+	
 
 
 ### Motorola

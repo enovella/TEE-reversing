@@ -9,27 +9,24 @@
 - Attacking the ARM's TrustZone
 	- https://blog.quarkslab.com/attacking-the-arms-trustzone.html
 
-- Secure initialization of TEEs: when secure boot falls short (EuskalHack 2017)
-	- https://www.riscure.com/uploads/2017/08/euskalhack_2017_-_secure_initialization_of_tees_when_secure_boot_falls_short.pdf
+- ARM TrustZone Security Whitepaper
+	- http://infocenter.arm.com/help/topic/com.arm.doc.prd29-genc-009492c/PRD29-GENC-009492C_trustzone_security_whitepaper.pdf
 
-- Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM
-	- https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
+- Web Site ARM TrustZone
+	- https://developer.arm.com/ip-products/security-ip/trustzone
 	
-- Boomerang: Exploiting the Semantic Gap in Trusted Execution Environments (A.Machiry) 2017
-	- https://pdfs.semanticscholar.org/f62b/db9f1950329f59dc467238737d2de1a1bac4.pdf (slides)
-	- http://sites.cs.ucsb.edu/~cspensky/pdfs/ndss17-final227.pdf (paper)
+- TrustZone Explained: Architectural Features and Use Cases
+	- http://sefcom.asu.edu/publications/trustzone-explained-cic2016.pdf
+
+- Trustworthy Execution on Mobile Devices
+	- https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 	
 - Nick Stephens : how does someone unlock your phone with nose. (give big picture of NWd <> SWd communications and exploits)
 	- https://fr.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
-	
 
+# TEE Exploits/Security Analysis
 
-### Motorola
-
-- Unlocking the Motorola Bootloader (10/02/2016)
-	- http://bits-please.blogspot.com/2016/02/unlocking-motorola-bootloader.html
-
-### Huawei
+## HiSilicon/Huawei (TrustedCore)
 
 - Exploiting Trustzone on Android (BH-US 2015) by Di Shen(@returnsme) 
 	- https://www.blackhat.com/docs/us-15/materials/us-15-Shen-Attacking-Your-Trusted-Core-Exploiting-Trustzone-On-Android-wp.pdf
@@ -41,7 +38,7 @@
 - Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun
 
-### QSEE
+## Qualcomm (QSEE)
 
 - Reflections on Trusting TrustZone (2014)
 	- https://www.blackhat.com/docs/us-14/materials/us-14-Rosenberg-Reflections-on-Trusting-TrustZone.pdf
@@ -84,11 +81,21 @@
 	
 - The road to Qualcomm TrustZone apps fuzzing (RECON Montreal 2019)
 	- https://cfp.recon.cx/media/tz_apps_fuzz.pdf
+	
+- Downgrade Attack on TrustZone 
+	- http://ww2.cs.fsu.edu/~ychen/paper/downgradeTZ.pdf
 
+### Motorola (Qualcomm SoC)
 
-### Samsung 
+- Unlocking the Motorola Bootloader (10/02/2016)
+	- http://bits-please.blogspot.com/2016/02/unlocking-motorola-bootloader.html
+	
+### HTC (Qualcomm SoC)
 
-#### Kinibi & MobiCore
+- Here Be Dragons: Vulnerabilities in TrustZone (14/08/2014)
+	- https://atredispartners.blogspot.com/2014/08/here-be-dragons-vulnerabilities-in.html
+
+## Trustonic (Kinibi & MobiCore)
 
 - Unbox Your Phone: Parts I, II & III
 	- https://medium.com/taszksec/unbox-your-phone-part-i-331bbf44c30c
@@ -100,10 +107,6 @@
 - KINIBI TEE: Trusted Application Exploitation (2018-12-10)
 	- https://www.synacktiv.com/posts/exploit/kinibi-tee-trusted-application-exploitation.html
 
-- Reverse Engineering Samsung S6 SBOOT - Part I & II
-	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
-	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html
-
 - TEE Exploitation on Samsung Exynos devices by Eloi Sanfelix: Parts I, II, III, IV
 	- https://labs.bluefrostsecurity.de/blog/2019/05/27/tee-exploitation-on-samsung-exynos-devices-introduction/
 	- https://labs.bluefrostsecurity.de/files/TEE.pdf
@@ -111,12 +114,38 @@
 - Breaking Samsung's ARM TrustZone (BlackHat USA 2019)
 	- https://i.blackhat.com/USA-19/Thursday/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf
 	
-#### TEEGRIS
+## Samsung (TEEGRIS)
 
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov
 	- http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html
+
+## Apple (Secure Enclave)
+
+- Demystifying the Secure Enclave Processor by Tarjei Mandt, Mathew Solnik, and David Wang
+	- http://mista.nu/research/sep-paper.pdf
+	- *slides* https://www.blackhat.com/docs/us-16/materials/us-16-Mandt-Demystifying-The-Secure-Enclave-Processor.pdf
+
+## Intel (Intel SGX)
+
+- Intel SGX Explained by Victor Costan and Srinivas Devadas
+	- https://css.csail.mit.edu/6.858/2017/readings/costan-sgx.pdf
 	
-## TEE Videos
+# TEE Secure Boot
+
+- Reverse Engineering Samsung S6 SBOOT - Part I & II
+	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
+	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html
+	
+- Secure initialization of TEEs: when secure boot falls short (EuskalHack 2017)
+	- https://www.riscure.com/uploads/2017/08/euskalhack_2017_-_secure_initialization_of_tees_when_secure_boot_falls_short.pdf
+
+- Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM
+	- https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
+	
+- Qualcomm Secure Boot and Image Authentication Technical Overview
+	- https://www.qualcomm.com/documents/secure-boot-and-image-authentication-technical-overview-v20
+
+# TEE Videos
 
 - Ekoparty-13 (2017) Daniel Komaromy - Unbox Your Phone - Exploring and Breaking Samsung's TrustZone SandBoxes
 	- video: https://www.youtube.com/watch?v=L2Mo8WcmmZo
@@ -128,6 +157,16 @@
 - BSides DC 2018 & DerbiCon VIII - On the nose: Bypassing Huaweis Fingerprint Authentication by Exploiting the TrustZone by Nick Stephens
 	- https://www.youtube.com/watch?v=QFFhdqP7Dxg
 	- https://www.youtube.com/watch?v=MdoGCXGHGnY
+
+- 34C3 2017 - Console Security - Switch by Plutoo, Derrek and Naehrwert
+	- https://media.ccc.de/v/34c3-8941-console_security_-_switch
+
+- 34C3 2017 - TrustZone is not enough by Pascal Cotret
+	- https://media.ccc.de/v/34c3-8831-trustzone_is_not_enough
+
+- RootedCON 2017 - What your mother never told you about Trusted Execution Environment... by José A. Rivas
+	- *audio Spanish original* https://www.youtube.com/watch?v=lzrIzS84mdk
+	- *English translation* https://www.youtube.com/watch?v=Lzb5OfE1M7s
 	
 - BH US 2015 - Fingerprints On Mobile Devices: Abusing And Leaking
 	- https://www.youtube.com/watch?v=7NkojB9gLXM
@@ -135,10 +174,13 @@
 - No ConName 2015 - (Un)Trusted Execution Environments by Pau Oliva
 	- video: *audio Spanish only* https://vimeo.com/150787883
 	- slides: https://t.co/vFATxEa7sy
+	
+- BH US 2014 - Reflections on Trusting TrustZone by Dan Rosenberg
+	- https://www.youtube.com/watch?v=7w40mS5yLjc
 
-## Tools
+# Tools
 
-### Emulate
+## Emulate
 
 - QEMU Support for Exynos9820 S-Boot
 	- https://github.com/astarasikov/qemu
@@ -146,7 +188,7 @@
 - Emulating Exynos 4210 BootROM in QEMU
 	- https://fredericb.info/2018/03/emulating-exynos-4210-bootrom-in-qemu.html#emulating-exynos-4210-bootrom-in-qemu
 
-### Reverse
+## Reverse
 
 - TZAR unpacker
 	- https://gist.github.com/astarasikov/f47cb7f46b5193872f376fa0ea842e4b#file-unpack_startup_tzar-py
@@ -156,3 +198,18 @@
 
 - Ghidra MCLF Loader
 	- https://github.com/NeatMonster/mclf-ghidra-loader
+	
+# Other useful resources
+
+- ARM Trusted Firmware: reference implementation of secure world for Cortex A and Cortex M
+	- https://www.trustedfirmware.org/
+
+- OP-TEE: open source ARM TrusZone based TEE
+	- https://www.op-tee.org/
+
+- Trust Issues: Exploiting TrustZone TEEs by Project Zero Team
+	- https://googleprojectzero.blogspot.com/2017/07/trust-issues-exploiting-trustzone-tees.html
+
+- Boomerang: Exploiting the Semantic Gap in Trusted Execution Environments (A.Machiry) 2017
+	- https://pdfs.semanticscholar.org/f62b/db9f1950329f59dc467238737d2de1a1bac4.pdf (slides)
+	- http://sites.cs.ucsb.edu/~cspensky/pdfs/ndss17-final227.pdf (paper)

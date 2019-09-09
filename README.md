@@ -1,8 +1,8 @@
-# TEE basics 
+# TEE basics
 
 - Introduction to Trusted Execution Environment: ARM's TrustZone
 	- https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html
-	
+
 - Introduction to TEE (original title: TEEを中心とするCPUセキュリティ機能の動向 )
 	- https://seminar-materials.iijlab.net/iijlab-seminar/iijlab-seminar-20181120.pdf
 
@@ -14,13 +14,13 @@
 
 - Web Site ARM TrustZone
 	- https://developer.arm.com/ip-products/security-ip/trustzone
-	
+
 - TrustZone Explained: Architectural Features and Use Cases
 	- http://sefcom.asu.edu/publications/trustzone-explained-cic2016.pdf
 
 - Trustworthy Execution on Mobile Devices
 	- https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
-	
+
 - Nick Stephens : how does someone unlock your phone with nose. (give big picture of NWd <> SWd communications and exploits)
 	- https://fr.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
 
@@ -28,13 +28,13 @@
 
 ## HiSilicon/Huawei (TrustedCore)
 
-- Exploiting Trustzone on Android (BH-US 2015) by Di Shen(@returnsme) 
+- Exploiting Trustzone on Android (BH-US 2015) by Di Shen(@returnsme)
 	- https://www.blackhat.com/docs/us-15/materials/us-15-Shen-Attacking-Your-Trusted-Core-Exploiting-Trustzone-On-Android-wp.pdf
-	
+
 - EL3 Tour : Get the Ultimate Privilege of Android Phone (Infiltrate19)
 	- https://speakerdeck.com/hhj4ck/el3-tour-get-the-ultimate-privilege-of-android-phone
 	- Paper : [infiltrate.pdf](https://github.com/enovella/TEE-reversing/blob/master/Papers/infiltrate.pdf)
-	
+
 - Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun
 
@@ -78,18 +78,18 @@
 
 - Qualcomm TrustZone Integer Signedness bug (12/2014)
 	- https://fredericb.info/2014/12/qpsiir-80-qualcomm-trustzone-integer.html
-	
+
 - The road to Qualcomm TrustZone apps fuzzing (RECON Montreal 2019)
 	- https://cfp.recon.cx/media/tz_apps_fuzz.pdf
-	
-- Downgrade Attack on TrustZone 
+
+- Downgrade Attack on TrustZone
 	- http://ww2.cs.fsu.edu/~ychen/paper/downgradeTZ.pdf
 
 ### Motorola (Qualcomm SoC)
 
 - Unlocking the Motorola Bootloader (10/02/2016)
 	- http://bits-please.blogspot.com/2016/02/unlocking-motorola-bootloader.html
-	
+
 ### HTC (Qualcomm SoC)
 
 - Here Be Dragons: Vulnerabilities in TrustZone (14/08/2014)
@@ -110,10 +110,13 @@
 - TEE Exploitation on Samsung Exynos devices by Eloi Sanfelix: Parts I, II, III, IV
 	- https://labs.bluefrostsecurity.de/blog/2019/05/27/tee-exploitation-on-samsung-exynos-devices-introduction/
 	- https://labs.bluefrostsecurity.de/files/TEE.pdf
-	
+
 - Breaking Samsung's ARM TrustZone (BlackHat USA 2019)
 	- https://i.blackhat.com/USA-19/Thursday/us-19-Peterlin-Breaking-Samsungs-ARM-TrustZone.pdf
-	
+
+- Launching feedback-driven fuzzing on TrustZone TEE (HITBGSEC2019)
+	- https://gsec.hitb.org/materials/sg2019/D2%20-%20Launching%20Feedback-Driven%20Fuzzing%20on%20TrustZone%20TEE%20-%20Andrey%20Akimov.pdf
+
 ## Samsung (TEEGRIS)
 
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov
@@ -129,19 +132,19 @@
 
 - Intel SGX Explained by Victor Costan and Srinivas Devadas
 	- https://css.csail.mit.edu/6.858/2017/readings/costan-sgx.pdf
-	
+
 # TEE Secure Boot
 
 - Reverse Engineering Samsung S6 SBOOT - Part I & II
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-i.html
 	- https://blog.quarkslab.com/reverse-engineering-samsung-s6-sboot-part-ii.html
-	
+
 - Secure initialization of TEEs: when secure boot falls short (EuskalHack 2017)
 	- https://www.riscure.com/uploads/2017/08/euskalhack_2017_-_secure_initialization_of_tees_when_secure_boot_falls_short.pdf
 
 - Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM
 	- https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html#amlogic-s905-soc-bypassing-not-so
-	
+
 - Qualcomm Secure Boot and Image Authentication Technical Overview
 	- https://www.qualcomm.com/documents/secure-boot-and-image-authentication-technical-overview-v20
 
@@ -167,14 +170,14 @@
 - RootedCON 2017 - What your mother never told you about Trusted Execution Environment... by José A. Rivas
 	- *audio Spanish original* https://www.youtube.com/watch?v=lzrIzS84mdk
 	- *English translation* https://www.youtube.com/watch?v=Lzb5OfE1M7s
-	
+
 - BH US 2015 - Fingerprints On Mobile Devices: Abusing And Leaking
 	- https://www.youtube.com/watch?v=7NkojB9gLXM
 
 - No ConName 2015 - (Un)Trusted Execution Environments by Pau Oliva
 	- video: *audio Spanish only* https://vimeo.com/150787883
 	- slides: https://t.co/vFATxEa7sy
-	
+
 - BH US 2014 - Reflections on Trusting TrustZone by Dan Rosenberg
 	- https://www.youtube.com/watch?v=7w40mS5yLjc
 
@@ -198,7 +201,7 @@
 
 - Ghidra MCLF Loader
 	- https://github.com/NeatMonster/mclf-ghidra-loader
-	
+
 # Other useful resources
 
 - ARM Trusted Firmware: reference implementation of secure world for Cortex A and Cortex M

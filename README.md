@@ -138,7 +138,7 @@
 	- slides: https://nullcon.net/website/archives/pdf/bangalore-2019/fuzzing-embedded-(trusted)-operating-systems%20using-AFL.pdf
 	- video: https://www.youtube.com/watch?v=AZhxZlwZ160
 
-### TEE Fuzzing
+# TEE Fuzzing
 
 - PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation 
 	- https://people.eecs.berkeley.edu/~rohanpadhye/files/partemu-usenixsec20.pdf

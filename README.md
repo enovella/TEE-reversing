@@ -197,6 +197,9 @@
 - BH US 2014 - Reflections on Trusting TrustZone by Dan Rosenberg
 	- https://www.youtube.com/watch?v=7w40mS5yLjc
 
+- ARM TrustZone for dummies by Tim Hummels
+	- https://www.youtube.com/watch?v=ecBByjwny3s
+
 # Tools
 
 ## Emulate

@@ -171,6 +171,12 @@
 	- https://www.youtube.com/watch?v=QFFhdqP7Dxg
 	- https://www.youtube.com/watch?v=MdoGCXGHGnY
 
+- An infestation of dragons: Exploring vulnerabilities in the ARM TrustZone architecture by Josh Thomas and Charles Holmes Android Security Symposium in Vienna, Austria, 9-11 September 2015
+	- https://www.youtube.com/watch?v=vxNGgOR-iVM
+
+- Android and trusted execution environments by Jan-Erik Ekberg (Trustonic) at the Android Security Symposium in Vienna, Austria, 9-11 September 2015
+	- https://www.youtube.com/watch?v=5542lEk3OAM
+
 - 34C3 2017 - Console Security - Switch by Plutoo, Derrek and Naehrwert
 	- https://media.ccc.de/v/34c3-8941-console_security_-_switch
 

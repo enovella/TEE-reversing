@@ -133,15 +133,24 @@
 - Intel SGX Explained by Victor Costan and Srinivas Devadas
 	- https://css.csail.mit.edu/6.858/2017/readings/costan-sgx.pdf
 
-## OP-TEE
-- Fuzzing Embedded (Trusted) Operating Systems Using AFL (Martijn Bogaard | nullcon Goa 2019)
-	- slides: https://nullcon.net/website/archives/pdf/bangalore-2019/fuzzing-embedded-(trusted)-operating-systems%20using-AFL.pdf
-	- video: https://www.youtube.com/watch?v=AZhxZlwZ160
 
 # TEE Fuzzing
 
 - PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation 
 	- https://people.eecs.berkeley.edu/~rohanpadhye/files/partemu-usenixsec20.pdf
+
+- The Road to Qualcomm TrustZone Apps Fuzzing
+	- https://research.checkpoint.com/the-road-to-qualcomm-trustzone-apps-fuzzing/
+	- https://cfp.recon.cx/media/tz_apps_fuzz.pdf
+
+- Launching feedback-driven fuzzing on TrustZone TEE (HITB GSEC 2019 Singapore)
+	- slides: https://gsec.hitb.org/materials/sg2019/D2%20-%20Launching%20Feedback-Driven%20Fuzzing%20on%20TrustZone%20TEE%20-%20Andrey%20Akimov.pdf
+	- video: https://www.youtube.com/watch?v=yb7KGznzczs
+
+- Fuzzing Embedded (Trusted) Operating Systems Using AFL (Martijn Bogaard | nullcon Goa 2019) OP-TEE
+	- slides: https://nullcon.net/website/archives/pdf/bangalore-2019/fuzzing-embedded-(trusted)-operating-systems%20using-AFL.pdf
+	- video: https://www.youtube.com/watch?v=AZhxZlwZ160
+
 
 # TEE Secure Boot
 

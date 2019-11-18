@@ -21,8 +21,6 @@
 - Trustworthy Execution on Mobile Devices
 	- https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 
-- Nick Stephens : how does someone unlock your phone with nose. (give big picture of NWd <> SWd communications and exploits)
-	- https://fr.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
 
 # TEE Exploits/Security Analysis
 
@@ -37,6 +35,9 @@
 
 - Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun
+	
+- Nick Stephens : how does someone unlock your phone with nose. (give big picture of NWd <> SWd communications and exploits) GeekPwn 2016
+	- https://fr.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
 
 ## Qualcomm (QSEE)
 

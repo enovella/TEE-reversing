@@ -151,6 +151,7 @@
 - Fuzzing Embedded (Trusted) Operating Systems Using AFL (Martijn Bogaard | nullcon Goa 2019) OP-TEE
 	- slides: https://nullcon.net/website/archives/pdf/bangalore-2019/fuzzing-embedded-(trusted)-operating-systems%20using-AFL.pdf
 	- video: https://www.youtube.com/watch?v=AZhxZlwZ160
+	- webinar: https://www.youtube.com/watch?time_continue=12&v=ROyD9RTMePA
 
 - SAN19-225 Fuzzing embedded (trusted) operating systems using AFL (Martijn Bogaard) OP-TEE
 	- video: https://www.youtube.com/watch?v=7bYAwaJ7WZw

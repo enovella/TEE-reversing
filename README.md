@@ -32,6 +32,7 @@
 - EL3 Tour : Get the Ultimate Privilege of Android Phone (Infiltrate19)
 	- https://speakerdeck.com/hhj4ck/el3-tour-get-the-ultimate-privilege-of-android-phone
 	- Paper : [infiltrate.pdf](https://github.com/enovella/TEE-reversing/blob/master/Papers/infiltrate.pdf)
+	- video: https://vimeo.com/335948808
 
 - Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun

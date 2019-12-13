@@ -19,8 +19,10 @@
 	- http://sefcom.asu.edu/publications/trustzone-explained-cic2016.pdf
 
 - Trustworthy Execution on Mobile Devices
-	- https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
+        - https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 
+- A Deep Dive into Samsung's trustzone (Part 1 - intro)
+        - https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
 
 # TEE Exploits/Security Analysis
 

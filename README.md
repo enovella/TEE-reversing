@@ -19,10 +19,10 @@
 	- http://sefcom.asu.edu/publications/trustzone-explained-cic2016.pdf
 
 - Trustworthy Execution on Mobile Devices
-        - https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
+    - https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 
 - A Deep Dive into Samsung's trustzone (Part 1 - intro)
-        - https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
+    - https://blog.quarkslab.com/a-deep-dive-into-samsungs-trustzone-part-1.html
 
 # TEE Exploits/Security Analysis
 
@@ -38,7 +38,7 @@
 
 - Nailgun: Break the privilege isolation in ARM devices (PoC #2 only)
 	- https://github.com/ningzhenyu/nailgun
-	
+
 - Nick Stephens : how does someone unlock your phone with nose. (give big picture of NWd <> SWd communications and exploits) GeekPwn 2016
 	- https://fr.slideshare.net/GeekPwnKeen/nick-stephenshow-does-someone-unlock-your-phone-with-nose
 
@@ -142,7 +142,7 @@
 
 # TEE Fuzzing
 
-- PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation 
+- PARTEMU: Enabling Dynamic Analysis of Real-World TrustZone Software Using Emulation
 	- https://people.eecs.berkeley.edu/~rohanpadhye/files/partemu-usenixsec20.pdf
 
 - The Road to Qualcomm TrustZone Apps Fuzzing

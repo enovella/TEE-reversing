@@ -255,6 +255,7 @@
 - Boomerang: Exploiting the Semantic Gap in Trusted Execution Environments (A.Machiry) 2017
 	- https://pdfs.semanticscholar.org/f62b/db9f1950329f59dc467238737d2de1a1bac4.pdf (slides)
 	- http://sites.cs.ucsb.edu/~cspensky/pdfs/ndss17-final227.pdf (paper)
+	- https://github.com/ucsb-seclab/boomerang (tool)
 
 - TEE research (Some useful IDA and Ghidra plugins for TEE research)
 	- https://github.com/bkerler/tee_research

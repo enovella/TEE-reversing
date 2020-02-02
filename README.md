@@ -226,13 +226,17 @@
 # Microarchitectural attacks applied to TEE
 
 - ARMageddon: Cache attacks on mobile devices
-    - https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf
+    - [Paper] https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf
+    - [Related tool] https://github.com/IAIK/armageddon
     
 - Cache storage channels: Alias-driven attacks and verified countermeasures.
     - https://www.kth.se/polopoly_fs/1.641701.1550155969!/R.Guanciale.pdf
 
 - 34C3 - Microarchitectural Attacks on Trusted Execution Environments
     - https://media.ccc.de/v/34c3-8950-microarchitectural_attacks_on_trusted_execution_environments
+    
+- TruSpy: Cache side-channel information leakage from the secure world on ARM devices
+    - https://eprint.iacr.org/2016/980.pdf
     
     
 # Tools

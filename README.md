@@ -231,6 +231,10 @@
 - Cache storage channels: Alias-driven attacks and verified countermeasures.
     - https://www.kth.se/polopoly_fs/1.641701.1550155969!/R.Guanciale.pdf
 
+- 34C3 - Microarchitectural Attacks on Trusted Execution Environments
+    - https://media.ccc.de/v/34c3-8950-microarchitectural_attacks_on_trusted_execution_environments
+    
+    
 # Tools
 
 ## Emulate

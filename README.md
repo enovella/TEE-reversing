@@ -21,6 +21,9 @@
 - Trustworthy Execution on Mobile Devices
     - https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 
+- Demystifying ARM Trustzone : A Comprehensive Survey
+    - https://www.researchgate.net/profile/Nuno_Santos9/publication/330696364_Demystifying_Arm_TrustZone_A_Comprehensive_Survey/links/5c6ff1a792851c6950379cdd/Demystifying-Arm-TrustZone-A-Comprehensive-Survey.pdf
+
 # TEE Exploits/Security Analysis
 
 ## HiSilicon/Huawei (TrustedCore)
@@ -219,6 +222,14 @@
 
 - ARM TrustZone for dummies by Tim Hummels
 	- https://www.youtube.com/watch?v=ecBByjwny3s
+
+# Microarchitectural attacks applied to TEE
+
+- ARMageddon: Cache attacks on mobile devices
+    - https://www.usenix.org/system/files/conference/usenixsecurity16/sec16_paper_lipp.pdf
+    
+- Cache storage channels: Alias-driven attacks and verified countermeasures.
+    - https://www.kth.se/polopoly_fs/1.641701.1550155969!/R.Guanciale.pdf
 
 # Tools
 

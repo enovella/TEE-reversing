@@ -19,10 +19,14 @@
 	- http://sefcom.asu.edu/publications/trustzone-explained-cic2016.pdf
 
 - Trustworthy Execution on Mobile Devices
-    - https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
+	- https://netsec.ethz.ch/publications/papers/paper-hyperphone-TRUST-2012.pdf
 
 - Demystifying ARM Trustzone : A Comprehensive Survey
-    - https://www.researchgate.net/profile/Nuno_Santos9/publication/330696364_Demystifying_Arm_TrustZone_A_Comprehensive_Survey/links/5c6ff1a792851c6950379cdd/Demystifying-Arm-TrustZone-A-Comprehensive-Survey.pdf
+	- https://www.researchgate.net/profile/Nuno_Santos9/publication/330696364_Demystifying_Arm_TrustZone_A_Comprehensive_Survey/links/5c6ff1a792851c6950379cdd/Demystifying-Arm-TrustZone-A-Comprehensive-Survey.pdf
+    
+- Understanding Trusted Execution Environments and Arm TrustZone (by Azeria)
+	- https://azeria-labs.com/trusted-execution-environments-tee-and-trustzone/
+
 
 # TEE Exploits/Security Analysis
 

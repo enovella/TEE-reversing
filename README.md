@@ -27,6 +27,8 @@
 - Understanding Trusted Execution Environments and Arm TrustZone (by Azeria)
 	- https://azeria-labs.com/trusted-execution-environments-tee-and-trustzone/
 
+- SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems
+	- https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf
 
 # TEE Exploits/Security Analysis
 

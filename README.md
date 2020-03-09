@@ -1,4 +1,4 @@
-# TEE basics
+# TEE Basics & General
 
 - Introduction to Trusted Execution Environment: ARM's TrustZone
 	- https://blog.quarkslab.com/introduction-to-trusted-execution-environment-arms-trustzone.html

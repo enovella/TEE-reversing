@@ -186,6 +186,9 @@
 
 - Qualcomm Secure Boot and Image Authentication Technical Overview
 	- https://www.qualcomm.com/documents/secure-boot-and-image-authentication-technical-overview-v20
+	
+- Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot (BlackHat 2020)
+	- https://teamt5.org/en/posts/blackhat-s-talk-breaking-samsung-s-root-of-trust-exploiting-samsung-secure-boot/
 
 # TEE Videos
 

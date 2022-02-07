@@ -139,6 +139,10 @@
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov
 	- http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html
 
+- Bug Hunting S21’s 10ADAB1E FW (OffensiveCon 2022)
+	- https://www.dropbox.com/s/2f14ga52jguu5cy/OffensiveCon%202022%20-%20Bug%20Hunting%20S21s%2010ADAB1E%20FW.pdf?dl=0
+	- slides : https://github.com/enovella/TEE-reversing/raw/master/Papers/OffensiveCon%202022%20-%20Bug%20Hunting%20S21s%2010ADAB1E%20FW.pdf
+
 ## Apple (Secure Enclave)
 
 - Demystifying the Secure Enclave Processor by Tarjei Mandt, Mathew Solnik, and David Wang

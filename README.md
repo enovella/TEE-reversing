@@ -194,6 +194,9 @@
 - Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot (BlackHat 2020)
 	- https://teamt5.org/en/posts/blackhat-s-talk-breaking-samsung-s-root-of-trust-exploiting-samsung-secure-boot/
 
+- Overview of Secure Boot state in the ARM-based SoCs (Hardware-Aided Trusted Computing devroom - Maciej Pijanowski- FOSDEM 2021)
+	- https://archive.fosdem.org/2021/schedule/event/tee_arm_secboot/attachments/paper/4635/export/events/attachments/tee_arm_secboot/paper/4635/Overview_of_Secure_Boot_in_Arm_based_SoCs.pdf
+
 # TEE Videos
 
 - Ekoparty-13 (2017) Daniel Komaromy - Unbox Your Phone - Exploring and Breaking Samsung's TrustZone SandBoxes

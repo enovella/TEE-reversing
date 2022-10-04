@@ -136,6 +136,11 @@
 
 ## Samsung (TEEGRIS)
 
+- Breaking TEE Security : 
+	- (Part 1 - Intro) https://www.riscure.com/blog/tee-security-samsung-teegris-part-1
+	- (Part 2 - Exploiting TAs) https://www.riscure.com/blog/tee-security-samsung-teegris-part-2
+	- (Part 3 - EoP TAs > TOS) https://www.riscure.com/blog/tee-security-samsung-teegris-part-3
+
 - Reverse-engineering Samsung Exynos 9820 bootloader and TZ by @astarasikov
 	- http://allsoftwaresucks.blogspot.com/2019/05/reverse-engineering-samsung-exynos-9820.html
 

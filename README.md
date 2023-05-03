@@ -30,6 +30,12 @@
 - SoK: Understanding the Prevailing Security Vulnerabilities in TrustZone-assisted TEE Systems
 	- https://www.cs.purdue.edu/homes/pfonseca/papers/sp2020-tees.pdf
 
+- Giving Mobile Security the Boot (by Jonathan Levin)
+	- https://papers.put.as/papers/ios/2016/TrustZone.pdf
+
+- The ARMs race to TrustZone (by Jonathan Levin)
+	- http://technologeeks.com/files/TZ.pdf
+
 # TEE Exploits/Security Analysis
 
 ## HiSilicon/Huawei (TrustedCore)
@@ -136,7 +142,7 @@
 
 ## Samsung (TEEGRIS)
 
-- Breaking TEE Security : 
+- Breaking TEE Security :
 	- (Part 1 - Intro) https://www.riscure.com/blog/tee-security-samsung-teegris-part-1
 	- (Part 2 - Exploiting TAs) https://www.riscure.com/blog/tee-security-samsung-teegris-part-2
 	- (Part 3 - EoP TAs > TOS) https://www.riscure.com/blog/tee-security-samsung-teegris-part-3
@@ -195,7 +201,7 @@
 
 - Qualcomm Secure Boot and Image Authentication Technical Overview
 	- https://www.qualcomm.com/documents/secure-boot-and-image-authentication-technical-overview-v20
-	
+
 - Breaking Samsung's Root of Trust - Exploiting Samsung Secure Boot (BlackHat 2020)
 	- https://teamt5.org/en/posts/blackhat-s-talk-breaking-samsung-s-root-of-trust-exploiting-samsung-secure-boot/
 

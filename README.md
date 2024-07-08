@@ -208,6 +208,9 @@
 - Overview of Secure Boot state in the ARM-based SoCs (Hardware-Aided Trusted Computing devroom - Maciej Pijanowski- FOSDEM 2021)
 	- https://archive.fosdem.org/2021/schedule/event/tee_arm_secboot/attachments/paper/4635/export/events/attachments/tee_arm_secboot/paper/4635/Overview_of_Secure_Boot_in_Arm_based_SoCs.pdf
 
+- Dive-Into-Android-TA-BugHunting-And-Fuzzing (Kanxue SDC 2023)
+        - https://github.com/guluisacat/MySlides/blob/main/KanxueSDC2023/%E3%80%90%E8%AE%AE%E9%A2%98%E3%80%91%E6%B7%B1%E5%85%A5Android%E5%8F%AF%E4%BF%A1%E5%BA%94%E7%94%A8%E6%BC%8F%E6%B4%9E%E6%8C%96%E6%8E%98.pdf
+
 # TEE Videos
 
 - Ekoparty-13 (2017) Daniel Komaromy - Unbox Your Phone - Exploring and Breaking Samsung's TrustZone SandBoxes

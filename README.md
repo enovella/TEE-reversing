@@ -153,6 +153,9 @@
 - Bug Hunting S21’s 10ADAB1E FW (OffensiveCon 2022)
 	- https://www.dropbox.com/s/2f14ga52jguu5cy/OffensiveCon%202022%20-%20Bug%20Hunting%20S21s%2010ADAB1E%20FW.pdf?dl=0
 
+- Learning from the old Samsung Exynos Trustlet bug by @TwizzyIndy
+	- https://twizzyindy.github.io/android/exynos/2026/01/06/learning-exynos-trustlet-en.html
+
 ## Apple (Secure Enclave)
 
 - Demystifying the Secure Enclave Processor by Tarjei Mandt, Mathew Solnik, and David Wang
